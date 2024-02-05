@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/bow",
+	"texture_size": [32, 32],
+	"textures": {
+		"bow": "item/pull_1",
+		"particle": "item/bow_standby"
+	}
+}

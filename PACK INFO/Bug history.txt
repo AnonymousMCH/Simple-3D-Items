@@ -1,0 +1,103 @@
+ ________    ___  ___    ________        ___  ___    ___    ________    _________   ________    ________     ___    ___  ___       
+|\   __  \  |\  \|\  \  |\   ____\      |\  \|\  \  |\  \  |\   ____\  |\___   ___\|\   __  \  |\   __  \   |\  \  /  / |\  \      
+\ \  \|\ /_ \ \  \\\  \ \ \  \___|      \ \  \_\  \ \ \  \ \ \  \___|_ \|___ \  \_|\ \  \_\  \ \ \  \_\  \  \ \  \/  /  \ \  \     
+ \ \   __  \ \ \  \\\  \ \ \  \  ___     \ \   __  \ \ \  \ \ \_____  \     \ \  \  \ \  \ \  \ \ \   _  _\  \ \   _/    \ \__\ 
+  \ \  \|\  \ \ \  \\\  \ \ \  \|\  \     \ \  \ \  \ \ \  \ \|_____\  \     \ \  \  \ \  \_\  \ \ \  \\  \|  \ \  \      \|___|
+   \ \_______\ \ \_______\ \ \_______\     \ \__\ \__\ \ \__\ \_________\     \ \__\  \ \_______\ \ \__\\ _\   \ \__\       |\__\
+    \|_______|  \|_______|  \|_______|      \|__|\|__|  \|__|  |________|      \|__|   \|_______|  \|__|\|__|   \|__|       \|__|
+
+
+<< Type >>
+
+	MDBU = Model Bug
+	VRBU = Version Bug
+	TXBU = Texture Bug
+	MSBU = Miscellaneous Bug
+
+<< Number >>
+
+	#### = Number of Bug
+
+<< Priority >>
+
+	IRPT = Irrelevant Priority Bug
+	LWPT = Low Priority Bug
+	MDPT = Medium Priority Bug
+	CRPT = Critical Priority Bug
+
+
+		<< MDBU-0001-MDPT >>
+
+Issue: Models were too big in the player hand and on the floor.
+
+Items: Tools
+
+Found: 0.1
+
+Solved: 0.2
+
+
+		<< MDBU-0002-LWPT >>
+
+Issue: Inconsistent position/size/rotation in different items.
+
+Items: All
+
+Found: 0.1
+
+Solved: 0.2
+
+
+		<< TXBU-0003-MDPT >>
+
+Issue: Textures weren't loaded.
+
+Items: Diamond, Coal.
+
+Found: 0.3
+
+Solved: 0.4
+
+
+		<< MSBU-0004-CTPT >>
+
+Issue: Wrong model format with textures not loading.
+
+Items: All
+
+Found: 0.4
+
+Solved: 0.5
+
+
+		<< TXBU-0005-LWPT >>
+
+Issue: Textures weren't loaded.
+
+Items: Firework Star
+
+Found: 0.5
+
+Solved: 0.6
+
+
+		<< TXBU-0006-LWPT >>
+
+Issue: Textures weren't right.
+
+Items: Trident, Pumpkin pie
+
+Found: 0.6
+
+Solved: 0.7
+
+
+		<< MSBU-0007-CTPT >>
+
+Issue: Pulling animation is not shown, no charged variants.
+
+Items: Bow, Crossbow, Crossbow with arrow, Crossbow with firework rocket
+
+Found: 0.2
+
+Solved: 0.8

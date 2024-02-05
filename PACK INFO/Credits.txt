@@ -1,0 +1,11 @@
+<< Brightnem >>
+	Role: Creator
+
+<< Mark_the_Drifter >>
+	Role: User Interface Experience Enhancer
+
+<< Blockbench >>
+	Role: 3D Modeling tool
+
+<< Paint.net >>
+	Role: Texture editor

@@ -1,0 +1,439 @@
+ ________    ___  ___    ________    ________     ________    _______     ___         ________    ________     ___
+|\   ____\  |\  \|\  \  |\   __  \  |\   ___  \  |\   ____\  |\  ____\   |\  \       |\   __  \  |\   ____\   |\  \
+\ \  \___|  \ \  \\\  \ \ \  \|\  \ \ \  \\ \  \ \ \  \___|  \ \  \__/_  \ \  \      \ \  \_\  \ \ \  \___|   \ \__\
+ \ \  \      \ \   __  \ \ \   __  \ \ \  \\ \  \ \ \  \  __  \ \  ____\  \ \  \      \ \  \ \  \ \ \  \  ___  \|__|  
+  \ \  \____  \ \  \ \  \ \ \  \ \  \ \ \  \\ \  \ \ \  \|\  \ \ \  \__/_  \ \  \____  \ \  \_\  \ \ \  \|\  \    ___
+   \ \_______\ \ \__\ \__\ \ \__\ \__\ \ \__\\ \__\ \ \_______\ \ \______\  \ \_______\ \ \_______\ \ \_______\  |\__\
+    \|_______|  \|__|\|__|  \|__|\|__|  \|__| \|__|  \|_______|  \|______|   \|_______|  \|_______|  \|_______|  \|__|
+
+
+                             
+----->( Any changes will be recorded in this document! )<-----
+
+
+			---> 0.2 <---
+
+<< Added >>
+
+	:: Water bucket
+
+	:: Milk bucket
+
+	:: Lava bucket
+
+	:: Powder Snow Bucket
+
+	:: Bucket of Axolotl
+
+	:: Bucket of Tropical Fish
+
+	:: Bucket of Cod
+
+	:: Bucket of Salmon
+
+	:: Bucket of Pufferfish
+
+	:: Name tag
+
+	:: Snow ball
+		
+	:: Bow
+
+
+			---> 0.3 <---
+
+<< Added >>
+
+	:: Apple
+
+	:: Coal
+
+	:: Copper ingot 
+
+	:: Diamond
+
+	:: Enchanted golden apple
+
+	:: Flint and steel
+
+	:: Gold ingot
+
+	:: Golden apple
+
+	:: Iron ingot
+
+	:: Netherite ingot
+
+
+			---> 0.4 <---
+
+<< Added >>
+		
+	:: Berries
+
+	:: Brick
+
+	:: Paper
+
+	:: Raw beef
+
+	:: Raw copper
+
+	:: Raw gold
+
+	:: Raw iron
+
+	:: Raw pork
+
+	:: Shears
+
+	:: Trident
+
+
+			---> 0.5 <---
+
+<< Added >>
+		
+	:: Boats (all)
+
+	:: Boats wit chest (all)
+
+	:: Bone
+
+	:: Book
+
+	:: Bowl
+
+	:: Bread
+
+	:: Charcoal
+
+	:: Enchanted book
+
+	:: Feather
+
+	:: Firework star
+
+	:: Mushroom stew
+
+	:: Netherite scrap
+
+	:: Shulker shell
+
+	:: Slime ball
+
+	:: Stick
+
+	:: Sugar cane
+
+	:: Wheat
+
+
+<< Modified >>
+
+	:: Sword
+
+	:: Picaxe
+
+	:: Shovel
+
+	:: Hoe
+
+	:: Axe
+
+
+			---> 0.6 <---
+
+<< Added >>
+
+	:: Minecart
+
+	:: Minecart with chest
+
+	:: Minecart with TNT
+
+	:: Minecart with furnace
+
+	:: Minecart with hopper
+
+	:: Minecart with spawner
+
+	:: Minecart with command block
+
+	:: Fire charge
+		
+	:: Brush
+
+	:: Cherry boat
+
+	:: Cherry chest boat
+
+	:: Bamboo boat
+
+	:: Bamboo chest boat
+
+	:: Lever
+
+	:: Tripwire hook
+
+	:: Tadpole bucket
+
+	:: Drinking potions
+
+	:: Splash potions
+
+	:: Lingering potions
+
+	:: Short grass
+
+	:: Tall grass
+
+	:: Ladder
+
+	:: Nether brick
+
+
+<< Moddified >>
+
+	:: Firework star
+
+	:: Brick
+
+	:: Copper ingot
+
+	:: Iron ingot
+
+	:: Gold ingot
+
+	:: Netherite ingot
+
+	:: Stick
+
+	:: Acacia boat, chest
+
+	:: Apple
+
+	:: Birch boat, chest
+
+	:: Crossbow arrow
+
+	:: Crossbow firework
+
+	:: Crossbow standby, 0, 1, 2
+
+	:: Dark oak boat, chest
+
+	:: Golden apple
+
+	:: Enchanted golden apple
+
+	:: Firework rocket
+
+	:: Jungle boat, chest
+
+	:: Mangrove boat, chest
+
+	:: Bamboo raft, chest
+
+	:: Glass bottle
+
+	:: Oak boat, chest
+
+	:: Spruce boat, chest
+
+	:: Trident
+
+
+			---> 0.7 <---
+
+<< Added >>
+
+	:: Bottle o' enchanting
+
+	:: Suspicious stew
+
+	:: Hopper
+
+	:: Honey bottle
+
+	:: Rabbit stew
+
+	:: Beetroot soup
+
+	:: Pumpkin pie
+
+	:: Cake
+
+	:: Carrot
+
+	:: Golden carrot
+
+	:: Cauldron
+
+	:: Powered rail
+
+	:: Activator rail
+
+	:: Detector rail
+
+	:: Rail
+
+
+<< Modified >>
+
+	:: Enchanted book
+
+	:: Book
+
+	:: Paper
+
+	:: Bowl
+
+	:: Shulker shell
+
+	:: Firework star
+
+	:: Slime ball
+
+	:: Mushroom stew
+
+	:: Snowball
+
+	:: Trident
+
+	:: Swords: Netherite, Diamond, Golden, Iron, Stone, Wooden.
+
+	:: Name tag
+
+	:: Shears
+
+	:: Fire charge
+
+	:: Flint and steel
+
+	:: Buckets: Empty, Milk, Powder snow, Lava, Water.
+
+	:: Hoe: Netherite, Diamond, Golden, Iron, Stone, Wooden.
+
+	:: Shovel:  Netherite, Diamond, Golden, Iron, Stone, Wooden.
+
+	:: Sweet berries
+
+	:: Glow berries
+
+
+<< Emmisive >>
+
+	:: Enchanted golden apple
+
+	:: Golden apple
+
+	:: Glow berries
+
+	:: Golden carrot
+
+	:: Fire charge
+
+	:: Trident
+
+	:: Potions: Drinking, Splash, Lingering
+
+	:: Firework star
+
+	:: Book
+
+	:: Enchanted book
+
+	:: Bottle o' enchanting
+
+
+			---> 0.8 <---
+
+<< Added >>
+
+	:: Torch
+
+	:: Redstone torch
+
+	:: Soul torch
+
+	:: Painting
+
+	:: Flower pot
+
+	:: Item frame
+
+	:: Glow item frame
+
+	:: Bell
+
+	:: Armor stand
+
+	:: Lantern
+
+	:: Soul lantern
+
+	:: Comparator
+
+	:: Repeater
+
+	:: Hanging signs
+
+	:: Signs
+
+	:: Totem of undying
+
+	:: Brewing stand
+
+
+<< Modified >>
+
+	:: Crossbow
+
+	:: Bow
+
+	:: Bone
+
+	:: Bread
+
+	:: Hopper minecart
+
+	:: Arrow
+
+	:: Firework rocket
+
+	:: Shulker shell
+
+	:: Pumpkin pie
+
+	:: Netherite scrap
+
+	:: Feather
+
+	:: Short grass
+
+	:: Tall grass
+
+	:: Fern
+
+	:: Large fern
+
+	:: Ladder
+
+	:: Diamond
+
+	:: Raw copper
+
+	:: Raw iron
+
+	:: Raw gold
+
+
+<< Emmisive >>
+
+	:: Diamond
+
+	:: Totem of undying
+
+	:: Brewing stand
+
